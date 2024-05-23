@@ -4,6 +4,8 @@
 
 Hello! I'm Eirini Korovesi, and I'm excited to share my journey with you. I started in the world of economics 📊, transitioned into human resources 🧑‍💼, and now I'm diving deep into the field of data analytics 📈. My diverse background gives me a unique perspective and a strong analytical foundation.
 
+Before Continuing, here you can check a sample of my work. [Animal Center Project](https://github.com/eirinikorovesi/Austin-Animal-Center-Data) 
+
 ## My Journey
 
 - **Economics** 📈: Developed a solid understanding of economic principles and statistical analysis.
